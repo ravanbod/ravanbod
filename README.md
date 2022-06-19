@@ -11,6 +11,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravanbod)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 ⚡ My name is Behrad Ravanbod, a Software enginnering student.
