@@ -14,7 +14,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravanbod)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
-⚡ My name is Behrad Ravanbod, a Software enginnering student.
+⚡ My name is Behrad Ravanbod, a Software engineer.
 
 🔭 I build apps with Go and Python and I do DevOps tasks.
 
